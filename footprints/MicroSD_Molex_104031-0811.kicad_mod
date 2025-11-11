@@ -453,7 +453,7 @@
 		(uuid "1f0c8fec-42c8-4b81-8082-c5db6aaac1b0")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/HomeLabIO.3dshapes/MOLEX_104031-0811.stp"
+	(model "${HW_COMP}/models/MOLEX_104031-0811.stp"
 		(offset
 			(xyz -44.5 1.5 0.6)
 		)

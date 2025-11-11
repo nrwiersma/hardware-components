@@ -451,7 +451,7 @@
 		(uuid "933d4c36-b5f2-416e-8100-06607003024d")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/HomeLabIO.3dshapes/640455-4.step"
+	(model "${HW_COMP}/models/TE_640455-4.step"
 		(offset
 			(xyz -0 0.2 3.2)
 		)

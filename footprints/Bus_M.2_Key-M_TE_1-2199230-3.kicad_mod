@@ -1020,7 +1020,7 @@
 		(uuid "76f618c9-f77a-4c4c-962b-040831815c3e")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/HomeLabIO.3dshapes/TE-1-2199119-5.stp"
+	(model "${HW_COMP}/models/Bus_M.2_Socket_M.stp"
 		(offset
 			(xyz 0 -3.5 1.6)
 		)

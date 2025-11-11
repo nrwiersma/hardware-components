@@ -2013,7 +2013,7 @@
 		(uuid "be8f2ba1-c51a-4f66-bc18-b8d2e1b8bbdc")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/HomeLabIO.3dshapes/DF40C-100DS-0.4V_51_.stp"
+	(model "${HW_COMP}/models/HIROSE_DF40C-100DS-0.4V.stp"
 		(offset
 			(xyz 0.02 0 0)
 		)
