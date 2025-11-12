@@ -10449,7 +10449,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "35V Independent Type 350mV@10mA 100mA SOD-923F  Schottky Diodes ROHS"
+		(property "Description" "-40℃~+125℃ 100mA 10uA@10V 250mV@10mA 30V 3A SOD-923F Schottky Diodes ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10467,7 +10467,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CDBQR0130L-HF"
+		(property "MPN" "CDBQC0130L-HF "
 			(at 0 0 0)
 			(effects
 				(font
@@ -10476,7 +10476,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2886014"
+		(property "JLCPCB Part #" "C2886012"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20666,7 +20666,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_BOURNS-CR0402-FX-2201GLF_C2076845.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588899018885222400"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20675,7 +20675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "62.5mW Thick Film Resistors 50V ±100ppm/℃ ±1% 2.2kΩ 0402  Chip Resistor - Surface Mount ROHS"
+		(property "Description" "-55℃~+155℃ 2.2kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20684,7 +20684,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "BOURNS"
+		(property "Manufacturer" "YAGEO"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20693,7 +20693,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CR0402-FX-2201GLF"
+		(property "MPN" "RC0402FR-072K2L"
 			(at 0 0 0)
 			(effects
 				(font
@@ -20702,7 +20702,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2076845"
+		(property "JLCPCB Part #" "C114762"
 			(at 0 0 0)
 			(effects
 				(font
