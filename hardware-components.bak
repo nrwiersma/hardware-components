@@ -10449,7 +10449,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "35V Independent Type 350mV@10mA 100mA SOD-923F  Schottky Diodes ROHS"
+		(property "Description" "-40℃~+125℃ 100mA 10uA@10V 250mV@10mA 30V 3A SOD-923F Schottky Diodes ROHS"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10467,7 +10467,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CDBQR0130L-HF"
+		(property "MPN" "CDBQC0130L-HF "
 			(at 0 0 0)
 			(effects
 				(font
@@ -10476,7 +10476,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C2886014"
+		(property "JLCPCB Part #" "C2886012"
 			(at 0 0 0)
 			(effects
 				(font
