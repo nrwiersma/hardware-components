@@ -263,4 +263,15 @@
 			(xyz 0 0 0)
 		)
 	)
+	(model "${HW_COMP}/models/LED_SK6812MINI.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -180)
+		)
+	)
 )
