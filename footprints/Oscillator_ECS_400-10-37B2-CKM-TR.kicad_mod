@@ -134,7 +134,7 @@
 		(uuid "cfe41c12-f811-484b-a002-b88abb68ead7")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_2016-4Pin_2.0x1.6mm.step"
+	(model "${HW_COMP}/models/Oscillator_ECS_400-10-37B2-CKM-TR.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -142,7 +142,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -90 -0 -90)
 		)
 	)
 )
