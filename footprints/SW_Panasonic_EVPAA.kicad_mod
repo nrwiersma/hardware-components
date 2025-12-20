@@ -1,0 +1,140 @@
+(footprint "SW_Panasonic_EVPAA"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -2.4 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "804f482c-8622-4e53-a4ec-e7dda2ac006e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_Panasonic_EVPAA"
+		(at 0 2.28 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "509d0484-1c08-4a1e-8425-f425320a1bb2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "76d9c37f-afc6-422f-ab08-56897f2f1860")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cc607b02-5d7e-4784-b291-b0c56d20646e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 1.75 -1.45)
+		(end -1.75 -1.45)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "029a0707-c4a4-4af9-8f2a-7695a3e9f577")
+	)
+	(fp_line
+		(start 1.75 1.45)
+		(end -1.75 1.45)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "386b4c8c-8e0c-49a0-a11c-48e5447d56d4")
+	)
+	(fp_rect
+		(start -2.3 -1.55)
+		(end 2.3 1.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "df403b32-b8c9-4660-8b6c-e0a8db82ee1f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "bc859efd-630b-4ef2-a18e-fe4d69f982b0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -1.675 -0.725)
+		(size 1.15 1.05)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "100aeb3b-86ab-4937-86f7-38cb9552605e")
+	)
+	(pad "1" smd roundrect
+		(at 1.675 -0.725)
+		(size 1.15 1.05)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "ffa1f07c-b24c-4f14-825d-f62293e8f1b4")
+	)
+	(pad "2" smd roundrect
+		(at -1.675 0.725)
+		(size 1.15 1.05)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "e0f1e470-b020-4d2a-80c4-751493fca891")
+	)
+	(pad "2" smd roundrect
+		(at 1.675 0.725)
+		(size 1.15 1.05)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.15)
+		(uuid "bd3f685d-1804-4493-ac8d-bb0abfd15440")
+	)
+	(embedded_fonts no)
+	(model "${HW_COMP}/models/SW_Panasonic_EVPAA.STEP"
+		(offset
+			(xyz 1.45 -1.02 1.7)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)
