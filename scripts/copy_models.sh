@@ -36,6 +36,14 @@ find ./footprints -name "*.kicad_mod" -type f | while read -r modfile; do
         fi
 
         extension="${src_path##*.}"
+        if [[ "$extension" == "wrl" ]]; then
+            # Prefer STEP over WRL if both exist.
+            if [[ -f "${src_path%.wrl}.step" ]]; then
+                extension="step"
+                src_path="${src_path%.wrl}.step"
+            fi
+        fi
+
         filename="$modname.$extension"
         dest_path="./$TARGET_DIR/$filename"
 

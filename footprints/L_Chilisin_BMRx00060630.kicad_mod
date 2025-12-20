@@ -277,7 +277,7 @@
 		(uuid "9c3c7e86-62ae-464d-a3a9-29a27889a203")
 	)
 	(embedded_fonts no)
-	(model "${HW_COMP}/models/L_Chilisin_BMRx00060630.wrl"
+	(model "${HW_COMP}/models/L_Chilisin_BMRx00060630.step"
 		(offset
 			(xyz 0 0 0)
 		)
