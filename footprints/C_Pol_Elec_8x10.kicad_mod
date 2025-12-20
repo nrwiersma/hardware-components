@@ -474,7 +474,7 @@
 		(uuid "fd4129cf-6119-47e2-9c6f-9b56220b3c03")
 	)
 	(embedded_fonts no)
-	(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_8x10.wrl"
+	(model "${HW_COMP}/models/C_Pol_Elec_8x10.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

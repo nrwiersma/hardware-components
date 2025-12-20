@@ -296,7 +296,7 @@
 		(uuid "44a7bf3d-2f28-46d6-81d3-291c88dc1739")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/SOP-4_3.8x4.1mm_P2.54mm.step"
+	(model "${HW_COMP}/models/SSR_SUPSiC_GAQY212GSX.step"
 		(offset
 			(xyz 0 0 0)
 		)

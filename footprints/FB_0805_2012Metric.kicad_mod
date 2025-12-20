@@ -152,7 +152,7 @@
 		(uuid "167af67f-aade-4ab7-9155-e1d534bc7fe3")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/SqueezeAMPPOE.3dshapes/SMD-FERRITE-BEAD-30R-3A_0805_.step"
+	(model "${HW_COMP}/models/SMD-FERRITE-BEAD-30R-3A_0805_.step"
 		(offset
 			(xyz 0 -0.55 0)
 		)

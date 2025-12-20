@@ -318,7 +318,7 @@
 		(uuid "b4bfe547-e135-4ab6-8688-522d14549f43")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_SON.3dshapes/WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm.step"
+	(model "${HW_COMP}/models/WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias.step"
 		(offset
 			(xyz 0 0 0)
 		)

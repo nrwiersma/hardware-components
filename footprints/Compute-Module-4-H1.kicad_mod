@@ -383,7 +383,7 @@
 		(uuid "bbef7c9c-3baf-44f1-a3db-387df8539077")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/HomeLabIO.3dshapes/Raspberry-Pi_CM4.step"
+	(model "${HW_COMP}/models/Raspberry-Pi_CM4.step"
 		(offset
 			(xyz 16 23.7 1.5)
 		)

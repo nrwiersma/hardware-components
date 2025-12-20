@@ -258,7 +258,7 @@
 		(uuid "5c26946b-97a0-4fc9-9e28-6b817dfd0888")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_SON.3dshapes/USON-10_2.5x1.0mm_P0.5mm.step"
+	(model "${HW_COMP}/models/TPD4EUSB30_USON-10.step"
 		(offset
 			(xyz 0 0 0)
 		)

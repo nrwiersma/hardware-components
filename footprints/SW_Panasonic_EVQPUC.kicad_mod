@@ -309,7 +309,7 @@
 		(uuid "dfa9c4dc-deb4-42e9-9771-4f5d619f3d1d")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/Panasonic_EVQPUL_EVQPUC.step"
+	(model "${HW_COMP}/models/SW_Panasonic_EVQPUC.step"
 		(offset
 			(xyz 0 0 0)
 		)

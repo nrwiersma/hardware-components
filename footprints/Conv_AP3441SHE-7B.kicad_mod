@@ -254,7 +254,7 @@
 		(uuid "ebdb7563-d301-41fe-84ef-6da4247afb39")
 	)
 	(embedded_fonts no)
-	(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_2x2mm_P0.5mm_EP1.05x1.75mm.wrl"
+	(model "${HW_COMP}/models/Conv_AP3441SHE-7B.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

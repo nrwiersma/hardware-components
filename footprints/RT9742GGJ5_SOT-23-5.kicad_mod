@@ -313,7 +313,7 @@
 		(uuid "faed1d22-31c5-4f4c-a387-fbbf81ffa543")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-5.step"
+	(model "${HW_COMP}/models/RT9742GGJ5_SOT-23-5.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -252,17 +252,6 @@
 		(uuid "bf51f97d-70b8-403d-b9e7-1c48bc155b9d")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm.step"
-		(offset
-			(xyz 0 0 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
 	(model "${HW_COMP}/models/LED_SK6812MINI.stp"
 		(offset
 			(xyz 0 0 0)
